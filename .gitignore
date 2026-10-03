@@ -1,0 +1,16 @@
+# Kompilyasiya nəticəsi
+*.exe
+
+# Diaqnostika jurnalı
+*.log
+
+# Şəxsi ayarlar və açarlar (heç vaxt repozitoriyaya düşməməlidir)
+server.txt
+volume.txt
+layer.txt
+view.txt
+alerts_window.txt
+google_key.txt
+esri_key.txt
+mapbox_token.txt
+sound.wav
